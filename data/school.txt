@@ -1,0 +1,9 @@
+Khoa Công nghệ Thông tin (CNTT) của trường đào tạo các ngành chính bao gồm
+Khoa học máy tính, Công nghệ thông tin và Kỹ thuật máy tính.
+Sinh viên theo học các ngành này sẽ được đào tạo trong vòng 4 năm.
+
+Lớp CNTT K20 là lớp thuộc khoa Công nghệ Thông tin.
+Sinh viên lớp CNTT K20 học các môn như Cấu trúc dữ liệu, Hệ điều hành,
+Mạng máy tính và Cơ sở dữ liệu.
+
+Giảng viên chủ nhiệm của lớp CNTT K20 là thầy Nguyễn Văn A.
